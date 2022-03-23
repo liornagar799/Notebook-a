@@ -7,7 +7,7 @@ using namespace std;
 
 
 
-        void ariel::Notebook::write( int page, int row, int column,Direction x,string s){
+        void ariel::Notebook::write( int page, int row, int column,Direction x,const string &s){
          ;
         }
 
